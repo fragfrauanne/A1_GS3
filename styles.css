@@ -115,3 +115,9 @@ button {
 .fireworks.show {
     display: block; /* Jetzt wird es nur angezeigt, wenn die Klasse 'show' dazukommt */
 }
+
+footer {
+    font-size: 14px;
+    color: #666;
+    margin-top: 20px;
+}
